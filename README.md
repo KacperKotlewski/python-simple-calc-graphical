@@ -1,2 +1,2 @@
 # python-simple-calc-graphical
-sdimple calc in graphics.py
+simple calc in graphics.py
