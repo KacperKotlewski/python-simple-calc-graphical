@@ -12,3 +12,5 @@ in bash use this:
 python3 -m pip install -r requirments.txt
 python3 calculator.py
 ```
+
+[calc.png]
