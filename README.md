@@ -13,4 +13,4 @@ python3 -m pip install -r requirments.txt
 python3 calculator.py
 ```
 
-[calc.png]
+![calc image](https://github.com/KacperKotlewski/python-simple-calc-graphical/calc.png)
